@@ -33,12 +33,19 @@ This project simulates the classic **Rock Paper Scissors** game, where the user 
 ## 📂 Project Structure
 
 Rock-Paper-Scissors/
+
 ├── index.html       # Main HTML file (the entry point for the project)
+
 ├── style.css        # CSS file for styling the user interface
+
 ├── script.js        # JavaScript file containing game logic
+
 ├── images/          # Folder containing images for the game assets
+
 │   ├── rock.png     # Image for 'Rock' choice
+
 │   ├── paper.png    # Image for 'Paper' choice
+
 │   └── scissors.png # Image for 'Scissors' choice
 
 ---
